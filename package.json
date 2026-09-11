@@ -1,0 +1,13 @@
+{
+  "name": "ufff-github-pages",
+  "version": "1.0.0",
+  "private": true,
+  "description": "UFFF marketing, support and privacy pages. Static, local assets, no runtime dependencies.",
+  "type": "module",
+  "engines": { "node": ">=22" },
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "check": "node scripts/check.mjs",
+    "dev": "node scripts/serve.mjs"
+  }
+}
