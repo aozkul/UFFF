@@ -34,7 +34,8 @@ for(const page of pages){
 async function inventory(dir){const files=[];for(const e of await readdir(dir,{withFileTypes:true})){const p=path.join(dir,e.name);if(e.isDirectory())files.push(...await inventory(p));else files.push(p);}return files;}
 const files=await inventory(root);
 for(const p of files){
-  assert(['.html','.css','.png'].includes(path.extname(p))||path.basename(p)==='.nojekyll',`Unexpected published file: ${p}`);
+  assert(['.html','.css','.png','.webp'].includes(path.extname(p))||path.basename(p)==='.nojekyll',`Unexpected published file: ${p}`);
+  if(p.endsWith('.webp')){const b=await readFile(p);assert.equal(b.subarray(0,4).toString(),'RIFF');assert.equal(b.subarray(8,12).toString(),'WEBP');assert(b.length<250000,'Unoptimized image: '+p);}
   if(p.endsWith('.png')){
     const b=await readFile(p);assert.equal(b.subarray(1,4).toString(),'PNG');
     assert(b.readUInt32BE(16)>0&&b.readUInt32BE(20)>0,`Bad PNG dimensions: ${p}`);

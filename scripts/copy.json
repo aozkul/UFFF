@@ -1,0 +1,764 @@
+{
+  "tr": {
+    "name": "Türkçe",
+    "skip": "İçeriğe geç",
+    "nav": [
+      "Uygulamayı keşfet",
+      "Destek",
+      "Gizlilik"
+    ],
+    "language": "Dil seçimi",
+    "title": "UFFF — Kendi çizgi filminin başrolü ol.",
+    "description": "Fotoğrafından karikatür avatar oluştur. Mini filmler, sesli videolar, tepki GIF’leri ve yerel duo: UFFF’nin yeni iPhone deneyimini keşfet.",
+    "eyebrow": "Kendi küçük çizgi film dünyan",
+    "heading": "Fotoğrafın.<br>Karakterin.<br><em>Başrol sensin.</em>",
+    "lead": "Bir fotoğrafla kendine yeni bir rol ver. Şef ol, sihir yap, bir öpücük gönder. Kendi karakterinle küçük hikâyeler ve kocaman tepkiler yarat.",
+    "cta": "Yenilikleri keşfet",
+    "download": "App Store’da görüntüle",
+    "meta": "iPhone · iOS 18+ · TR / EN / DE",
+    "free": "İlk 3 oluşturma ücretsiz",
+    "occasions": [
+      "Kutlamak için bir sebep?",
+      "Aşk",
+      "Doğum günü",
+      "Yıl dönümü",
+      "Küçük zaferler",
+      "Sıradan bir salı"
+    ],
+    "share": [
+      "Bir tepkiyle çok şey söyle.",
+      "MP4 video, GIF ya da PNG kart. Uygulamadan paylaş veya orijinal dosyanı sakla. İstersen GIF’lerini UFFF klavyesine ekleyip uyumlu mesajlaşma uygulamalarına kopyalayıp yapıştır.",
+      "Klavye isteğe bağlıdır. Gönderimi sen onaylarsın; alıcı uygulama GIF davranışını ve sıkıştırmayı belirler.",
+      "06-share",
+      "Video, GIF ve görsel kart için dışa aktarma seçenekleri."
+    ],
+    "price": [
+      "Önce tanışın.",
+      "İlk üç<br><em>bizden.</em>",
+      "Tüm oluşturma formatlarında toplam üç başarılı oluşturma ücretsiz. Sonrasında UFFF Forever ile tek seferlik satın alma: sınırsız yeni içerik.",
+      "Abonelik yok. Eski içeriklerin hep sende.",
+      "İptal edilen veya başarısız işlemler hak tüketmez. Güncel fiyat, Apple satın alma ekranında mağaza bölgenin para birimiyle gösterilir.",
+      "Satın alma ve haklar"
+    ],
+    "private": [
+      "Senin yüzün. Senin sesin. Senin iPhone’un.",
+      "Fotoğraf ve ses cihazında işlenir. Hesap, reklam veya bulut AI servisi yok. Paylaşmayı sen seçersin.",
+      "Gizliliği keşfet"
+    ],
+    "supportTitle": "Bir yerde<br><em>takıldın mı?</em>",
+    "supportDescription": "UFFF avatar, mini film, sesli video, GIF klavyesi, satın alma ve paylaşım desteği.",
+    "supportEyebrow": "UFFF destek",
+    "supportLead": "Avatar, mini film, sesli video, GIF, klavye ve satın alma için kısa yanıtlar. Yeni özellikler 1.1.1 ile geliyor.",
+    "contact": [
+      "Birlikte bakalım.",
+      "Sorunu anlat, kaldığın yerden devam etmene yardımcı olalım.",
+      "E-posta gönder",
+      "Mesajına iPhone modelini, iOS sürümünü, gördüğün destek kodunu ve sorunu tekrarlama adımlarını ekle. Ses kaydı veya özel isim göndermen gerekmez."
+    ],
+    "faqTitle": "Sık sorulanlar",
+    "faqLabel": "Sorular ve yanıtlar",
+    "faqs": [
+      [
+        "Hangi oluşturma yolunu seçmeliyim?",
+        "Sesli video, kaydınla konuşan bir karakter içindir. Mini filmde önce sahneni ve hikâyeni seçersin; ses isteğe bağlıdır. Tepki GIF’lerinde animasyonları seçersin, mikrofon gerekmez. Kayıtlı avatarına dönebilir veya 18 hazır karakterden birini kullanabilirsin."
+      ],
+      [
+        "Avatarımı nasıl oluştururum veya değiştiririm?",
+        "Ana ekrandaki avatarın kamera düğmesine dokun. Düzenleyicide “Başka bir fotoğraf kullan” bölümünden fotoğraf çek veya seç. Beden ve karşılama hareketini önizleyip kaydet. Ana ekran avatarını kişiselleştirmek oluşturma hakkı tüketmez. Yeni içerik oluştururken kayıtlı avatarını yeniden seçebilirsin."
+      ],
+      [
+        "Fotoğraf işleme uzun sürüyor veya benzerlik zayıf.",
+        "İlk işlemde cihazdaki modeller hazırlanırken birkaç dakika gerekebilir. Uygulamayı açık tut ve yeterli boş alan bırak. Yüzün net, kadrajda büyük ve dengeli aydınlatılmış olduğu bir fotoğraf kullan; sert yan ışık, kapalı yüz veya aşırı kamera açısı sonucu etkileyebilir. Karikatür stilizasyonu yüzü değiştirir; kusursuz benzerlik garanti edilmez."
+      ],
+      [
+        "GIF klavyesi nasıl çalışır?",
+        "GIF’lerini uygulamadan klavyeye ekle. iOS Ayarlar → Genel → Klavye → Klavyeler bölümünden UFFF’yi etkinleştir. Tam Erişim, cihazdaki paylaşılan GIF rafına erişim ve panoya kopyalama içindir. Klavyede GIF’e dokun, hedef uygulamada yapıştır ve gönder. UFFF otomatik mesaj göndermez. Alıcı uygulama ekleme/oynatma biçimini belirler."
+      ],
+      [
+        "Klavyedeki 24 GIF alanı doldu.",
+        "Uygulamadaki klavye/GIF yönetiminden artık istemediğin GIF’leri kaldırıp yer aç. Raf 24 GIF tutar; alan doluysa yeni ekleme için önce yer açılması gerekir. Klavye kopyası ile kütüphanedeki içerik ayrı yönetilir."
+      ],
+      [
+        "WhatsApp’ta görüntü neden daha düşük kaliteli?",
+        "Mesajlaşma uygulamaları gönderilen dosyayı yeniden sıkıştırabilir. UFFF’den orijinal dosyayı kaydet; uygun olduğunda hedef uygulamada dosya/belge olarak gönder. MP4 hareket ve sesi, GIF sessiz hareketi, PNG ise tek bir kareyi korur. Hedef uygulamanın sıkıştırmasını UFFF kontrol edemez."
+      ],
+      [
+        "Duo nasıl oluşturulur?",
+        "Yaratıklarım içindeki duo oluşturma seçeneğinden aynı iPhone’da kayıtlı iki karakterini seç. Sahneyi ve sesleri belirle, önizleyip onayla. Duoları kütüphanenin Duo sekmesinde bulabilirsin. Başka bir kullanıcıyla uzaktan eşleşme yoktur."
+      ],
+      [
+        "Mikrofon çalışmıyor. Ne yapmalıyım?",
+        "iPhone’da Ayarlar → Uygulamalar → UFFF bölümünde Mikrofon iznini kontrol et. Sessiz bir ortamda tekrar dene. UFFF yalnızca sen kayıt başlattığında mikrofonu kullanır. Sorun devam ederse uygulamayı kapatıp yeniden aç ve varsa ekrandaki destek koduyla bize yaz."
+      ],
+      [
+        "Ses farklı geliyor veya ağız hareketi tam uymuyor.",
+        "Önizlemede doğal ses seçeneğini dene; ince ve kalın seçenekler sesi bilerek değiştirir. Mikrofonu kapatmadan, telefona normal konuşma mesafesinde, müzik ve arka plan konuşması olmadan kayıt yap. Ağız hareketi kayıttan üretilir ve her hece için kusursuz eşleşme garanti edilmez. Belirgin bir hata varsa saniyesini ve seçtiğin karakter/animasyonu yazman yeterli."
+      ],
+      [
+        "Üç ücretsiz hak tam olarak nasıl çalışıyor?",
+        "Toplam üç başarılı oluşturma ücretsizdir. İptal edilen veya başarısız işlemler hak tüketmez. Üçüncü başarılı oluşturmandan sonra yeni bir yaratık için UFFF Forever satın alman gerekir. Oluşturulmuş yaratıkların kullanılabilir kalır. Bir yaratığı silmek veya yerel içeriği sıfırlamak ücretsiz hakları yenilemez."
+      ],
+      [
+        "UFFF Forever abonelik mi?",
+        "Hayır. UFFF Forever, sınırsız yeni oluşturma sağlayan tek seferlik, tüketilmeyen bir uygulama içi satın almadır. Ücret Apple satın alma ekranında yerel para biriminle gösterilir. İşlemi onaylamadan ücret alınmaz."
+      ],
+      [
+        "Satın aldım ama yeni oluşturma kilitli. Nasıl geri yüklerim?",
+        "Satın alma ekranında “Satın almaları geri yükle” seçeneğini kullan. Satın alırken kullandığın Apple Hesabı ile giriş yaptığından ve internet bağlantın olduğundan emin ol. Apple doğrulamasının tamamlanmasını bekle. Kilit açılmazsa tekrar satın almak yerine bize yaz. Ödeme ve iade işlemlerini Apple yönetir."
+      ],
+      [
+        "Kütüphanem yedekleniyor mu? Nasıl silerim?",
+        "Kütüphane bu iPhone’da tutulur ve işletim sistemi yedeğine dahil edilmez. Uygulamayı silmeden veya telefon değiştirmeden önce tutmak istediğin MP4/GIF/PNG çıktıları dışa aktar; bu çıktılar düzenlenebilir kütüphane yedeği değildir. Yaratığı veya yalnızca seslerini silebilir, Ayarlar’dan yerel içeriği temizleyebilirsin. Dışarı paylaştığın kopyalar ayrıca silinmelidir."
+      ],
+      [
+        "İnternet veya UFFF hesabı gerekiyor mu?",
+        "Kayıt, oluşturma ve oynatma cihaz üzerinde çalışır; bir UFFF hesabı açman gerekmez. Satın alma, satın almayı geri yükleme ve seçtiğin paylaşım hizmetleri internet gerektirebilir. UFFF bir ses oyuncağıdır; ruh hali, sağlık veya kişilik değerlendirmesi yapmaz."
+      ]
+    ],
+    "privacyTitle": "Fotoğrafın sende.<br><em>Sesin de.</em>",
+    "privacyDescription": "UFFF gizlilik politikası: cihazda fotoğraf ve ses işleme, avatarlar, yerel saklama, GIF klavyesi ve isteğe bağlı paylaşım.",
+    "privacyEyebrow": "Gizlilik politikası",
+    "privacyLead": "Fotoğrafın ve sesin cihazında bir karaktere dönüşür. Bu sayfa uygulamanın, isteğe bağlı klavyenin ve web sitesinin veri akışını açıklar. Yeni avatar/GIF özellikleri 1.1.1 kapsamındadır.",
+    "updated": "Son güncelleme: 17 Ekim 2026",
+    "toc": "Bu sayfada",
+    "summary": [
+      "Cihazında işlenir",
+      "UFFF sunucusuna yüklenmez",
+      "Paylaşmayı sen seçersin"
+    ],
+    "policy": [
+      [
+        "scope",
+        "Kapsam ve iletişim",
+        "<p>Bu politika, Ali Orkun Ozkul tarafından sunulan UFFF iPhone uygulaması ve UFFF tanıtım/destek web sitesi için geçerlidir. Gizlilik veya kişisel veri talepleri için: <a href=\"mailto:ali.ozkul@icloud.com\">ali.ozkul@icloud.com</a>.</p><p>UFFF bir ses oyuncağıdır; ruh hali, sağlık, kişilik veya demografik özellik değerlendirmesi yapmaz. UFFF hesabı, reklam, uygulama analitiği, bulut yapay zekâ veya uygulamaya ait bir sunucu bulunmaz.</p>"
+      ],
+      [
+        "recording",
+        "Ses kaydı ve cihaz üzerinde işleme",
+        "<p>Mikrofon yalnızca sen görünür kayıt işlemini başlattığında kullanılır. Ses analizi, karakter üretimi, ses dönüşümü ve video hazırlama iPhone’unda gerçekleşir. UFFF, kayıtlarını veya yaratıklarını geliştiriciye ya da bir yapay zekâ hizmetine göndermez.</p><p>Ham kayıt, üç işlenmiş ses profili güvenle kaydedildikten sonra silinir. İptal edilen veya başarısız işleme ait geçici kayıtlar da temizlenir. İşlenmiş ses kişiyi tanınabilir kılabilir; ses dönüşümü anonimlik garantisi vermez.</p>"
+      ],
+      [
+        "photos",
+        "Fotoğraf, yüz noktaları ve avatar",
+        "<p>Kamera yalnızca fotoğraf çekmeyi seçtiğinde açılır. Sistem fotoğraf seçicisinden yalnız seçtiğin fotoğraf UFFF’ye verilir; tüm arşivine erişim istenmez. Fotoğraf, yüz noktalarının belirlenmesi ve karikatür üretimi için cihazda işlenir. Kaynak fotoğraf avatarla birlikte saklanmaz veya bir sunucuya yüklenmez.</p><p>Üretilen avatar görseli ve animasyon için kullanılan yüz noktaları cihazda saklanır. Bunlar kimlik doğrulama veya bir kişiyi başka kişilerle eşleştirmek için kullanılmaz. Avatarın görünüşü seni tanınabilir kılabilir. Saklanan avatarları ve içeriklerini uygulamadaki silme seçenekleriyle kaldırabilirsin.</p>"
+      ],
+      [
+        "permissions",
+        "İzinler",
+        "<p>Kamera fotoğraf çekmek, mikrofon açıkça başlattığın ses kaydı için kullanılır. Fotoğraflar’a ekleme izni yalnız çıktıyı oraya kaydetmek istediğinde istenir. İzinleri iPhone Ayarlar → Uygulamalar → UFFF bölümünden yönetebilirsin. Kişiler veya konum erişimi istenmez.</p>"
+      ],
+      [
+        "keyboard",
+        "İsteğe bağlı GIF klavyesi",
+        "<p>Klavyeye eklemeyi seçtiğin GIF’ler ve önizlemeleri, ana uygulama ile klavye uzantısının cihazdaki ortak alanında tutulur. iOS’taki Tam Erişim izni bu yerel paylaşım ve GIF’i panoya kopyalamak için kullanılır. UFFF klavyesi yazdığın metinleri toplamaz veya iletmez; ağ üzerinden veri göndermez.</p><p>GIF’e dokunmak onu panoya kopyalar. Hedef uygulamada yapıştırmayı ve göndermeyi sen seçersin. Panoya kopyalanan içeriğin hedef uygulamada kullanımı o uygulamanın kurallarına tabidir. Rafı uygulamadan yönetebilir, klavyeyi iOS ayarlarından kaldırabilirsin. Ana uygulamayı klavye olmadan kullanabilirsin.</p>"
+      ],
+      [
+        "sharing",
+        "Paylaşım senin seçimin",
+        "<p>MP4 video, GIF veya PNG kartı yalnız sen paylaştığında ya da Fotoğraflar’a kaydettiğinde cihazdaki uygulama alanından çıkar. Hedef uygulama, alıcılar veya Fotoğraflar/iCloud Fotoğrafları bu kopyayı kendi ayarları ve politikalarıyla işleyebilir. Fotoğraf avatarı ve ses seni tanınabilir kılabilir.</p><p>UFFF’de içerik silmek; Fotoğraflar’daki, panodaki, mesajlardaki veya alıcıların cihazlarındaki kopyaları otomatik silmez. Yerel duo aynı iPhone’daki iki kayıtlı yaratığı kullanır; başka bir kullanıcıya otomatik bağlantı veya gönderim yapmaz.</p>"
+      ],
+      [
+        "storage",
+        "Yerel saklama ve silme",
+        "<p>Yaratık tarifi, seçtiğin yerel ad, animasyon bilgileri ve işlenmiş sesler, sen silene kadar bu iPhone’da saklanır. Görseli tutarak yalnızca seslerini veya yaratığın tamamını silebilirsin. Ayarlar’dan yerel içeriği ve tercihleri temizlemek de mümkündür.</p><p>Kütüphane işletim sistemi yedeğinden hariç tutulur. Uygulamayı kaldırmak veya telefon değiştirmek içerik kaybına yol açabilir. Önemli video, GIF ve kartları önceden dışa aktar. Normal dosya silme uygulanır; fiziksel depolamadan adli olarak geri getirilemez silme garantisi verilmez.</p>"
+      ],
+      [
+        "purchases",
+        "Satın alma ve ücretsiz haklar",
+        "<p>Apple, App Store üzerinden ödemeyi ve satın alma geçmişini yönetir. UFFF ödeme kartı bilgilerini almaz. Uygulama, sınırsız oluşturma hakkını açmak veya geri yüklemek için Apple’ın doğrulanmış satın alma durumunu kullanır. Apple’ın veri işleme koşulları için <a href=\"https://www.apple.com/legal/privacy/\">Apple Gizlilik Politikası</a> geçerlidir.</p><p>Üç ücretsiz başarılı oluşturma sayısı ve yerel satın alma durumu cihaz üzerinde tutulur. İçerikleri silmek kullanılmış ücretsiz hakları yenilemez veya Apple satın almasını iptal etmez.</p>"
+      ],
+      [
+        "support",
+        "Destek e-postaları",
+        "<p>Bize e-posta gönderirsen e-posta adresin, mesajın ve kendin eklediğin bilgiler, talebini yanıtlamak ve sorunu çözmek için Ali Orkun Ozkul tarafından işlenir. İletişim iCloud Mail üzerinden yürür; e-posta hizmetinin koşulları da uygulanır. Kayıtlarını veya özel isimlerini göndermen gerekmez.</p><p>Yazışmalar destek talebinin takibi ve geçerli saklama yükümlülükleri için gerektiği sürece tutulur. Destek verilerinle ilgili erişim, düzeltme veya silme talebini <a href=\"mailto:ali.ozkul@icloud.com\">ali.ozkul@icloud.com</a> adresine gönderebilirsin.</p>"
+      ],
+      [
+        "website",
+        "Bu web sitesi ve GitHub Pages",
+        "<p>Bu web sitesi GitHub Pages üzerinden sunulur. Site kodunda analitik, reklam, izleme pikseli, çerez, tarayıcıda kalıcı depolama veya harici yazı tipi bulunmaz. Dil seçimi yalnızca başka bir yerel sayfayı açar.</p><p>GitHub Pages’e yapılan ziyaretlerde GitHub, güvenlik amacıyla IP adresini kaydeder; GitHub oturumu açmış olman gerekmez. Barındırma hizmetinin işlediği veriler, saklama ve uluslararası aktarım koşulları için <a href=\"https://docs.github.com/en/pages/getting-started-with-github-pages/what-is-github-pages\">GitHub Pages açıklamasını</a> ve <a href=\"https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement\">GitHub Gizlilik Bildirimi’ni</a> inceleyebilirsin. E-posta veya harici bir bağlantıyı açtığında ilgili hizmetin politikası uygulanır.</p>"
+      ],
+      [
+        "choices",
+        "Tercihlerin ve taleplerin",
+        "<p>Uygulamanın yerel içeriklerini kendin silebilir, mikrofon ve Fotoğraflar izinlerini kapatabilir, paylaşmamayı seçebilirsin. Geliştirici cihazındaki özel kütüphaneye erişemez. Bize gönderdiğin destek bilgileri için taleplerini <a href=\"mailto:ali.ozkul@icloud.com\">ali.ozkul@icloud.com</a> adresine iletebilirsin.</p><p>Bulunduğun yerdeki yürürlükte olan hukuka göre erişim, düzeltme, silme, işlemeyi kısıtlama, itiraz, veri taşınabilirliği ve bir veri koruma otoritesine şikâyet hakların bulunabilir.</p>"
+      ],
+      [
+        "updates",
+        "Değişiklikler",
+        "<p>Uygulamanın veya web sitesinin veri işleme biçimi değişirse bu politika ve üstteki güncelleme tarihi yenilenir. Soruların için destek e-postasından bize ulaşabilirsin.</p>"
+      ]
+    ],
+    "footer": "Küçük hikâyeler. Kocaman karakterler.",
+    "back": "Başa dön",
+    "privacyLink": "Gizlilik politikası",
+    "supportLink": "Destek",
+    "rights": "Tüm hakları saklıdır.",
+    "releaseLabel": "1.1.1’e ilk bakış",
+    "releaseNote": "Bu sayfa yaklaşan 1.1.1 sürümünün yeniliklerini gösterir. App Store’da şu anda 1.0 sunuluyor.",
+    "heroAlt": "UFFF uygulamasında fotoğraftan oluşturulmuş kişisel avatar ve beden seçimi.",
+    "art": "Bu defa başrol sensin.",
+    "chips": [
+      "Fotoğraftan avatar",
+      "Cihazında işlenir",
+      "Abonelik yok"
+    ],
+    "sections": [
+      "Avatarın",
+      "Üç farklı yol",
+      "Birlikte oyna",
+      "UFFF Forever"
+    ],
+    "avatar": [
+      "Bir fotoğraf. Bir sürü ihtimal.",
+      "Sana ait bir karakter.<br>Her role hazır.",
+      "Fotoğraf çek veya arşivinden seç. Avatarının bedenini, rengini ve karşılama hareketini canlı önizlemede ayarla. Ana ekranına kaydet; bir sonraki hikâyende yeniden seç.",
+      [
+        "32 beden: şef, pilot, sihirbaz ve daha fazlası",
+        "66 performans, içinde 32 mini film",
+        "Fotoğraf kullanmadan 18 hazır karakter"
+      ]
+    ],
+    "avatarNote": "Gerçek uygulama ekranları. Sonuç, seçtiğin fotoğrafa göre değişir.",
+    "bodyAlt": "Kişisel avatar için farklı bedenler ve kostümlerin canlı önizlemesi.",
+    "formatsTitle": "Ne yapmak istersin?",
+    "formatsLead": "En başta formatını seç. Her yol, ihtiyacın olan adımlarla ilerler.",
+    "formats": [
+      [
+        "Sesli video",
+        "Bir cümlene karakter kat. 8 saniyeye kadar kaydet; doğal sesini koru veya hafif ince/kalın efekti dene.",
+        "Karakter → Sahne → Hareket → Ses",
+        "05-voice",
+        "Avatarla sesli video önizlemesi."
+      ],
+      [
+        "Mini film",
+        "Şefin mutfağa girsin, sihirbazın numarasını yapsın. Sahneni ve hikâyeni seç; istersen sesini ekle.",
+        "Karakter → Sahne → Hikâye → Önizleme",
+        "03-movies",
+        "Şef bedenindeki avatar ve mini film seçimi."
+      ],
+      [
+        "Tepki GIF’leri",
+        "Bir selam, bir kutlama, dramatik bir tepki. Tüm animasyon koleksiyonundan kendi sessiz GIF paketini seç.",
+        "Karakter → Hareketler → GIF paketi",
+        "04-gifs",
+        "Kişisel avatar için tepki GIF animasyonları."
+      ]
+    ],
+    "duo": [
+      "İki başrol. Tek sahne.",
+      "Kayıtlı iki karakterini aynı iPhone’da buluştur. Sahneyi seç, birlikte önizle ve hangi seslerin duyulacağını belirle. Tekli içeriklerin ve duoların kütüphanede ayrı sekmelerde yerini bulsun.",
+      "07-duo",
+      "UFFF’de iki karakterli yerel duo sahnesi."
+    ],
+    "purchaseFAQIndex": 9
+  },
+  "en": {
+    "name": "English",
+    "skip": "Skip to content",
+    "nav": [
+      "Explore the app",
+      "Support",
+      "Privacy"
+    ],
+    "language": "Select language",
+    "title": "UFFF — Star in your own little cartoon.",
+    "description": "Turn your photo into a cartoon avatar. Discover mini movies, voice videos, reaction GIFs and local duos in the new UFFF for iPhone.",
+    "eyebrow": "Your little cartoon world",
+    "heading": "Your photo.<br>Your character.<br><em>Your moment.</em>",
+    "lead": "Give yourself a new role. Become a chef, do a magic trick, send a kiss. Make little stories and big reactions with a character of your own.",
+    "cta": "Explore what’s new",
+    "download": "View on the App Store",
+    "meta": "iPhone · iOS 18+ · EN / TR / DE",
+    "free": "Your first 3 creations are free",
+    "occasions": [
+      "Something to celebrate?",
+      "Love",
+      "Birthdays",
+      "Anniversaries",
+      "Little wins",
+      "Just a Tuesday"
+    ],
+    "share": [
+      "A little reaction goes a long way.",
+      "Share an MP4 video, a GIF or a PNG card. Send from the app or save your original file. Add GIFs to the optional UFFF keyboard to copy and paste into compatible messaging apps.",
+      "The keyboard is optional. You choose when to send; the receiving app controls GIF handling and compression.",
+      "06-share",
+      "UFFF export options for video, GIF and image cards."
+    ],
+    "price": [
+      "Get to know each other.",
+      "The first three<br><em>are on us.</em>",
+      "Three successful creations are free in total across all formats. Then UFFF Forever unlocks unlimited new creations with one purchase.",
+      "No subscription. Your old creations stay yours.",
+      "Failed or cancelled creations don’t use a credit. Apple’s purchase screen shows the current price in your storefront’s currency.",
+      "Purchases and free creations"
+    ],
+    "private": [
+      "Your face. Your voice. Your iPhone.",
+      "Photo and voice processing happen on your device. No account, ads or cloud AI service. You decide what to share.",
+      "Explore privacy"
+    ],
+    "supportTitle": "A little<br><em>stuck?</em>",
+    "supportDescription": "Help with UFFF photo avatars, mini movies, voice videos, GIF keyboard, sharing and one-time purchases.",
+    "supportEyebrow": "UFFF support",
+    "supportLead": "Short answers about avatars, mini movies, voice videos, GIFs, the keyboard and purchases. New features arrive with 1.1.1.",
+    "contact": [
+      "Let’s figure it out.",
+      "Tell us what happened so we can help you get back to creating.",
+      "Send an email",
+      "Include your iPhone model, iOS version, any support code on screen and steps to reproduce the issue. You do not need to send voice recordings or private names."
+    ],
+    "faqTitle": "Common questions",
+    "faqLabel": "Questions and answers",
+    "faqs": [
+      [
+        "Which creation path should I choose?",
+        "Choose Voice video for a character speaking with your recording. In Mini movie, choose your scene and story first; voice is optional. Reaction GIFs use selected animations with no microphone required. Reuse your saved avatar or pick one of 18 ready-made characters."
+      ],
+      [
+        "How do I create or change my avatar?",
+        "Tap the camera badge on your home avatar. In the editor, open “Use another photo” to take or choose a photo. Preview a body and greeting, then save. Personalizing the home avatar does not use a creation credit. You can select the saved avatar again when making new content."
+      ],
+      [
+        "Photo processing takes a long time, or the likeness is weak.",
+        "The first generation can take several minutes while on-device models are prepared. Keep the app open and leave enough free storage. Use a clear, evenly lit photo with the face large in the frame. Harsh side lighting, an obscured face or extreme camera angles can affect results. Cartoon styling changes facial features; perfect likeness is not guaranteed."
+      ],
+      [
+        "How does the GIF keyboard work?",
+        "Add GIFs to the keyboard from UFFF. Enable it in iOS Settings → General → Keyboard → Keyboards. Full Access lets it read the local shared GIF shelf and copy a GIF to the clipboard. Tap a GIF, paste in the receiving app, then send. UFFF does not automatically send messages. Insertion and playback depend on the receiving app."
+      ],
+      [
+        "The keyboard’s 24 GIF slots are full.",
+        "Remove GIFs you no longer need in the app’s keyboard/GIF manager to make room. The shelf holds 24 GIFs; you need space before adding more. Keyboard copies and library creations are managed separately."
+      ],
+      [
+        "Why does WhatsApp make the image look less sharp?",
+        "Messaging apps may recompress files. Save the original from UFFF; where supported, send it as a file/document in the receiving app. MP4 supports motion and sound, GIF is silent animation, and PNG is a still frame. UFFF cannot control another app’s compression."
+      ],
+      [
+        "How do I create a duo?",
+        "Use Create duo in My creatures and choose two creations saved on the same iPhone. Select a scene and voices, preview, then confirm. Find it in the Duo library tab. This is local creation, with no remote matching to another user."
+      ],
+      [
+        "The microphone is not working. What should I do?",
+        "On your iPhone, check microphone permission in Settings → Apps → UFFF. Try again in a quiet place. UFFF only uses the microphone when you start recording. If the issue persists, close and reopen the app, then contact us with any support code shown on screen."
+      ],
+      [
+        "My voice sounds different, or the mouth does not quite match.",
+        "Try the natural voice in the preview; the high and low options intentionally change your voice. Keep the microphone uncovered and speak at a normal distance from your phone without music or background conversation. Mouth movement is generated from your recording; a perfect match for every syllable is not guaranteed. For a noticeable issue, tell us the approximate second and your chosen character and animation."
+      ],
+      [
+        "How do the three free creations work?",
+        "You get three successful creations in total. Cancelled or failed attempts do not use a credit. After your third successful creation, UFFF Forever is required to create a new creature. Existing creatures remain available. Deleting a creature or resetting local content does not renew free credits."
+      ],
+      [
+        "Is UFFF Forever a subscription?",
+        "No. UFFF Forever is a one-time, non-consumable in-app purchase for unlimited new creations. Apple’s purchase screen shows the price in your local currency. You are not charged unless you confirm the transaction."
+      ],
+      [
+        "I already purchased, but creating is locked. How do I restore it?",
+        "Use “Restore purchases” on the purchase screen. Make sure you are signed in with the Apple Account used for the purchase and have an internet connection. Allow Apple’s verification to finish. If it remains locked, contact us before purchasing again. Apple handles payments and refunds."
+      ],
+      [
+        "Is my library backed up? How do I delete content?",
+        "Your library stays on this iPhone and is excluded from the operating system backup. Before uninstalling or changing phones, export any MP4 videos, GIFs or PNG cards you want to keep; exports are not an editable library backup. You can delete a creature or only its voices, and clear local content in Settings. Copies shared elsewhere must be deleted separately."
+      ],
+      [
+        "Do I need internet access or a UFFF account?",
+        "Recording, creation and playback work on your device without a UFFF account. Purchases, restoring purchases and your chosen sharing services may need internet access. UFFF is a sound toy; it does not assess mood, health or personality."
+      ]
+    ],
+    "privacyTitle": "Your photo stays yours.<br><em>So does your voice.</em>",
+    "privacyDescription": "UFFF privacy: on-device photo and voice processing, local avatars, storage, optional GIF keyboard and sharing.",
+    "privacyEyebrow": "Privacy policy",
+    "privacyLead": "Your photo and voice become a character on your device. This page explains how the app, optional keyboard and website handle data. New avatar/GIF features are part of 1.1.1.",
+    "updated": "Last updated: October 17, 2026",
+    "toc": "On this page",
+    "summary": [
+      "Processed on your device",
+      "No upload to a UFFF server",
+      "You choose what to share"
+    ],
+    "policy": [
+      [
+        "scope",
+        "Scope and contact",
+        "<p>This policy covers the UFFF iPhone app and UFFF marketing/support website, provided by Ali Orkun Ozkul. For privacy questions or personal data requests, contact <a href=\"mailto:ali.ozkul@icloud.com\">ali.ozkul@icloud.com</a>.</p><p>UFFF is a sound toy. It does not assess mood, health, personality or demographic characteristics. There is no UFFF account, advertising, app analytics, cloud AI or app backend.</p>"
+      ],
+      [
+        "recording",
+        "Recording and on-device processing",
+        "<p>The microphone is used only when you start a visible recording session. Audio analysis, character creation, voice transformation and video rendering happen on your iPhone. UFFF does not send your recordings or creatures to the developer or an AI service.</p><p>The raw recording is deleted after the three processed voice profiles have been safely saved. Temporary recordings from cancelled or failed processing are also cleaned up. A processed voice may still identify a person; voice transformation does not guarantee anonymity.</p>"
+      ],
+      [
+        "photos",
+        "Photos, face landmarks and avatars",
+        "<p>The camera opens only when you choose to take a photo. The system photo picker provides only the photo you select; UFFF does not request access to your entire library. The photo is processed on your device to locate facial landmarks and generate a cartoon. The source photo is not stored with the avatar or uploaded to a server.</p><p>The generated avatar image and facial landmarks used for animation are stored locally. They are not used for identity verification or matching a person to other people. The avatar may still make you recognizable. You can remove stored avatars and creations using the deletion controls in the app.</p>"
+      ],
+      [
+        "permissions",
+        "Permissions",
+        "<p>The camera is used to take a photo and the microphone for a recording you explicitly start. Add-to-Photos permission is requested only when you choose to save an export there. Manage permissions in iPhone Settings → Apps → UFFF. UFFF does not request contacts or location.</p>"
+      ],
+      [
+        "keyboard",
+        "Optional GIF keyboard",
+        "<p>GIFs you choose to add to the keyboard and their previews are stored in a local shared container accessible to the main app and keyboard extension. The iOS Full Access permission enables this local sharing and copying a GIF to the clipboard. The UFFF keyboard does not collect or transmit what you type and does not send data over the network.</p><p>Tapping a GIF copies it to the clipboard. You decide whether to paste and send it in the receiving app, whose policies then apply. Manage the shelf in UFFF or remove the keyboard in iOS Settings. The main app works without the keyboard.</p>"
+      ],
+      [
+        "sharing",
+        "Sharing is your choice",
+        "<p>MP4 videos, GIFs and PNG cards leave the app’s local storage only when you share them or save them to Photos. The receiving app, recipients or Photos/iCloud Photos may process that copy under their own settings and policies. Your photo avatar and voice may make you recognizable.</p><p>Deleting content in UFFF does not automatically remove copies in Photos, the clipboard, messages or other people’s devices. Local duos use two creations saved on the same iPhone; they do not automatically connect to another user or send them content.</p>"
+      ],
+      [
+        "storage",
+        "Local storage and deletion",
+        "<p>The creature recipe, local name you choose, animation information and processed voices stay on this iPhone until you delete them. You can keep a creature’s appearance while deleting its voices, or delete the whole creature. You can also clear local content and preferences in Settings.</p><p>The library is excluded from the operating system backup. Uninstalling the app or changing phones can result in lost content. Export important videos, GIFs and cards first. Normal file deletion is used; forensic, irreversible erasure from physical storage is not guaranteed.</p>"
+      ],
+      [
+        "purchases",
+        "Purchases and free credits",
+        "<p>Apple manages payment and purchase history through the App Store. UFFF does not receive your payment card details. The app uses verified purchase status from Apple to unlock or restore unlimited creation. See the <a href=\"https://www.apple.com/legal/privacy/\">Apple Privacy Policy</a> for Apple’s processing practices.</p><p>The count of three free successful creations and local purchase status are held on your device. Deleting content does not renew used free credits or cancel your Apple purchase.</p>"
+      ],
+      [
+        "support",
+        "Support emails",
+        "<p>If you email us, Ali Orkun Ozkul processes your email address, message and any information you choose to include to answer your request and resolve the issue. Correspondence uses iCloud Mail, whose service terms also apply. You do not need to send recordings or private names.</p><p>Correspondence is kept for as long as needed to follow up on the request and meet applicable retention obligations. Contact <a href=\"mailto:ali.ozkul@icloud.com\">ali.ozkul@icloud.com</a> to request access to, correction or deletion of support data.</p>"
+      ],
+      [
+        "website",
+        "This website and GitHub Pages",
+        "<p>This website is hosted on GitHub Pages. The site code contains no analytics, ads, tracking pixels, cookies, persistent browser storage or external fonts. Changing language simply opens another local page.</p><p>When you visit GitHub Pages, GitHub logs your IP address for security, even if you are not signed in to GitHub. For hosting data, retention and international transfer practices, see the <a href=\"https://docs.github.com/en/pages/getting-started-with-github-pages/what-is-github-pages\">GitHub Pages explanation</a> and <a href=\"https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement\">GitHub Privacy Statement</a>. When you open an email or external link, that service’s policy applies.</p>"
+      ],
+      [
+        "choices",
+        "Your choices and requests",
+        "<p>You can delete local app content, turn off microphone and Photos permissions, and choose not to share. The developer cannot access your private on-device library. For requests about support information you have sent us, email <a href=\"mailto:ali.ozkul@icloud.com\">ali.ozkul@icloud.com</a>.</p><p>Depending on the law that applies where you live, you may have rights to access, correct, erase, restrict processing, object, portability and a complaint to a data protection authority.</p>"
+      ],
+      [
+        "updates",
+        "Updates",
+        "<p>If the app’s or website’s data practices change, this policy and the update date above will be revised. You can contact us at the support email with any questions.</p>"
+      ]
+    ],
+    "footer": "Little stories. Big characters.",
+    "back": "Back to top",
+    "privacyLink": "Privacy policy",
+    "supportLink": "Support",
+    "rights": "All rights reserved.",
+    "releaseLabel": "A first look at 1.1.1",
+    "releaseNote": "This page previews the upcoming 1.1.1 update. Version 1.0 is currently available on the App Store.",
+    "heroAlt": "Real UFFF screen showing a personal photo avatar and body selection.",
+    "art": "You’re the main character.",
+    "chips": [
+      "Photo to avatar",
+      "Made on your iPhone",
+      "No subscription"
+    ],
+    "sections": [
+      "Your avatar",
+      "Three ways to play",
+      "Better together",
+      "UFFF Forever"
+    ],
+    "avatar": [
+      "One face. So many roles.",
+      "A character of your own.<br>A world to play in.",
+      "Take a photo or choose one. Pick a body, color and greeting while watching your avatar in a live preview. Save it to your home screen, then choose it again for your next story.",
+      [
+        "32 bodies: chefs, pilots, magicians and more",
+        "66 performances, including 32 mini movies",
+        "18 ready-made characters if you skip the photo"
+      ]
+    ],
+    "avatarNote": "Real app screens. Results vary with your photo.",
+    "bodyAlt": "Live preview of different bodies and outfits for a personal avatar.",
+    "formatsTitle": "What will you make?",
+    "formatsLead": "Choose your format first. Each path takes you through just the steps you need.",
+    "formats": [
+      [
+        "Voice video",
+        "Give a little line a lot of character. Record up to 8 seconds; keep your voice natural or try a gentle higher or lower effect.",
+        "Character → Scene → Action → Voice",
+        "05-voice",
+        "Voice video preview with a personal cartoon avatar."
+      ],
+      [
+        "Mini movie",
+        "Send your chef into the kitchen or let your magician do a trick. Choose a scene and story. Add your voice if you like.",
+        "Character → Scene → Story → Preview",
+        "03-movies",
+        "Chef avatar and mini movie story selection."
+      ],
+      [
+        "Reaction GIFs",
+        "A hello, a celebration, a wonderfully dramatic reaction. Pick from the full animation collection to make your own silent GIF pack.",
+        "Character → Actions → GIF pack",
+        "04-gifs",
+        "Reaction GIF animation selection for a personal avatar."
+      ]
+    ],
+    "duo": [
+      "Two stars. One scene.",
+      "Bring two saved characters together on the same iPhone. Choose a scene, preview their performance and decide which voices to include. Separate library tabs keep singles and duos easy to find.",
+      "07-duo",
+      "Two saved characters performing together in a local UFFF duo."
+    ],
+    "purchaseFAQIndex": 9
+  },
+  "de": {
+    "name": "Deutsch",
+    "skip": "Zum Inhalt springen",
+    "nav": [
+      "App entdecken",
+      "Support",
+      "Datenschutz"
+    ],
+    "language": "Sprache wählen",
+    "title": "UFFF — Dein eigener kleiner Cartoon.",
+    "description": "Dein Foto als Cartoon-Avatar. Entdecke Mini-Filme, Sprachvideos, Reaktions-GIFs und lokale Duos im neuen UFFF für iPhone.",
+    "eyebrow": "Deine kleine Cartoon-Welt",
+    "heading": "Dein Foto.<br>Deine Figur.<br><em>Dein Auftritt.</em>",
+    "lead": "Schlüpfe in eine neue Rolle. Koche, zaubere oder wirf einen Kuss zu. Erstelle kleine Geschichten und große Reaktionen mit deiner eigenen Figur.",
+    "cta": "Neuheiten entdecken",
+    "download": "Im App Store ansehen",
+    "meta": "iPhone · iOS 18+ · DE / EN / TR",
+    "free": "Die ersten 3 Kreationen gratis",
+    "occasions": [
+      "Ein Grund zum Feiern?",
+      "Liebe",
+      "Geburtstage",
+      "Jahrestage",
+      "Kleine Erfolge",
+      "Einfach Dienstag"
+    ],
+    "share": [
+      "Eine kleine Reaktion sagt so viel.",
+      "Teile ein MP4-Video, ein GIF oder eine PNG-Karte. Direkt aus der App, oder speichere die Originaldatei. Mit der optionalen UFFF-Tastatur kannst du GIFs in kompatible Nachrichten-Apps kopieren und einfügen.",
+      "Die Tastatur ist optional. Du entscheidest, wann du sendest. Die empfangende App bestimmt GIF-Wiedergabe und Komprimierung.",
+      "06-share",
+      "UFFF-Exportoptionen für Videos, GIFs und Bildkarten."
+    ],
+    "price": [
+      "Lernt euch kennen.",
+      "Die ersten drei<br><em>sind gratis.</em>",
+      "Insgesamt sind drei erfolgreiche Kreationen über alle Formate hinweg kostenlos. Danach schaltet UFFF Forever mit einem einmaligen Kauf unbegrenzt neue Kreationen frei.",
+      "Kein Abo. Deine bisherigen Kreationen bleiben.",
+      "Fehlgeschlagene oder abgebrochene Vorgänge verbrauchen kein Guthaben. Apples Kaufdialog zeigt den aktuellen Preis in der Währung deiner App-Store-Region.",
+      "Käufe und kostenlose Kreationen"
+    ],
+    "private": [
+      "Dein Gesicht. Deine Stimme. Dein iPhone.",
+      "Fotos und Stimmen werden auf deinem Gerät verarbeitet. Kein Konto, keine Werbung, kein Cloud-KI-Dienst. Du entscheidest, was du teilst.",
+      "Mehr zum Datenschutz"
+    ],
+    "supportTitle": "Kommst du<br><em>nicht weiter?</em>",
+    "supportDescription": "Hilfe zu UFFF-Foto-Avataren, Mini-Filmen, Sprachvideos, GIF-Tastatur, Teilen und einmaligen Käufen.",
+    "supportEyebrow": "UFFF Support",
+    "supportLead": "Kurze Antworten zu Avataren, Mini-Filmen, Sprachvideos, GIFs, Tastatur und Käufen. Neue Funktionen kommen mit 1.1.1.",
+    "contact": [
+      "Schauen wir gemeinsam.",
+      "Erzähl uns, was passiert ist, damit du bald weitergestalten kannst.",
+      "E-Mail schreiben",
+      "Nenne dein iPhone-Modell, die iOS-Version, einen angezeigten Supportcode und die Schritte zum Wiederholen des Problems. Sprachaufnahmen oder private Namen musst du nicht senden."
+    ],
+    "faqTitle": "Häufige Fragen",
+    "faqLabel": "Fragen und Antworten",
+    "faqs": [
+      [
+        "Welchen Ablauf sollte ich wählen?",
+        "Sprachvideo lässt deine Figur mit deiner Aufnahme sprechen. Im Mini-Film wählst du zuerst Szene und Geschichte; die Stimme ist optional. Reaktions-GIFs nutzen ausgewählte Animationen ohne Mikrofon. Verwende deinen gespeicherten Avatar oder eine von 18 fertigen Figuren."
+      ],
+      [
+        "Wie erstelle oder ändere ich meinen Avatar?",
+        "Tippe auf das Kamerasymbol am Startbildschirm-Avatar. Öffne im Editor „Anderes Foto verwenden“, um ein Foto aufzunehmen oder auszuwählen. Wähle Körper und Begrüßung mit Vorschau und speichere. Das Personalisieren des Startbildschirm-Avatars verbraucht kein Guthaben. Für neue Inhalte kannst du den gespeicherten Avatar erneut auswählen."
+      ],
+      [
+        "Die Fotoverarbeitung dauert lange oder die Ähnlichkeit ist schwach.",
+        "Beim ersten Mal kann die Vorbereitung der lokalen Modelle einige Minuten dauern. Lass die App offen und sorge für freien Speicher. Nutze ein klares, gleichmäßig beleuchtetes Foto mit großem Gesicht im Bild. Hartes Seitenlicht, verdeckte Gesichter oder extreme Winkel können das Ergebnis beeinflussen. Cartoon-Stilisierung verändert Gesichtszüge; perfekte Ähnlichkeit ist nicht garantiert."
+      ],
+      [
+        "Wie funktioniert die GIF-Tastatur?",
+        "Füge GIFs in UFFF zur Tastatur hinzu. Aktiviere sie unter iOS-Einstellungen → Allgemein → Tastatur → Tastaturen. Vollzugriff erlaubt den Zugriff auf die lokale gemeinsame GIF-Ablage und das Kopieren in die Zwischenablage. Tippe auf ein GIF, füge es in der Ziel-App ein und sende es. UFFF sendet keine Nachrichten automatisch. Einfügen und Wiedergabe hängen von der Ziel-App ab."
+      ],
+      [
+        "Die 24 GIF-Plätze der Tastatur sind voll.",
+        "Entferne nicht mehr benötigte GIFs in der Tastatur-/GIF-Verwaltung der App. Die Ablage bietet Platz für 24 GIFs; vor dem Hinzufügen weiterer GIFs muss Platz frei sein. Tastaturkopien und Kreationen in der Sammlung werden getrennt verwaltet."
+      ],
+      [
+        "Warum wirkt das Bild nach dem Senden in WhatsApp unscharf?",
+        "Nachrichten-Apps können Dateien erneut komprimieren. Speichere das Original aus UFFF und sende es, wenn möglich, als Datei/Dokument. MP4 unterstützt Bewegung und Ton, GIF ist eine stumme Animation und PNG ein Standbild. UFFF kann die Komprimierung anderer Apps nicht steuern."
+      ],
+      [
+        "Wie erstelle ich ein Duo?",
+        "Wähle in Meine Figuren die Duo-Erstellung und zwei auf demselben iPhone gespeicherte Kreationen. Bestimme Szene und Stimmen, prüfe die Vorschau und bestätige. Du findest es im Duo-Bereich der Sammlung. Es gibt keine Verbindung zu Figuren anderer Nutzer über das Internet."
+      ],
+      [
+        "Das Mikrofon funktioniert nicht. Was kann ich tun?",
+        "Prüfe auf deinem iPhone unter Einstellungen → Apps → UFFF die Mikrofonberechtigung. Versuche es an einem ruhigen Ort erneut. UFFF nutzt das Mikrofon nur, wenn du eine Aufnahme startest. Schließe und öffne die App bei anhaltenden Problemen erneut und schreib uns gegebenenfalls mit dem angezeigten Supportcode."
+      ],
+      [
+        "Die Stimme klingt anders oder der Mund passt nicht ganz.",
+        "Probiere die natürliche Stimme in der Vorschau. Die hohe und tiefe Variante verändern den Klang absichtlich. Lass das Mikrofon frei und sprich mit normalem Abstand zum Telefon, ohne Musik oder Gespräche im Hintergrund. Die Mundbewegung entsteht aus deiner Aufnahme; eine perfekte Übereinstimmung jeder Silbe wird nicht garantiert. Bei einem deutlichen Fehler reichen die ungefähre Sekunde sowie die gewählte Figur und Animation."
+      ],
+      [
+        "Wie funktionieren die drei kostenlosen Erstellungen?",
+        "Insgesamt sind drei erfolgreiche Erstellungen kostenlos. Abgebrochene oder fehlgeschlagene Versuche verbrauchen kein Guthaben. Nach der dritten erfolgreichen Erstellung brauchst du UFFF Forever für eine neue Figur. Bereits erstellte Figuren bleiben nutzbar. Das Löschen einer Figur oder Zurücksetzen lokaler Inhalte erneuert das kostenlose Guthaben nicht."
+      ],
+      [
+        "Ist UFFF Forever ein Abonnement?",
+        "Nein. UFFF Forever ist ein einmaliger, nicht aufbrauchbarer In-App-Kauf für unbegrenzt viele neue Figuren. Apples Kaufdialog zeigt den Preis in deiner Landeswährung. Eine Zahlung erfolgt erst, wenn du den Kauf bestätigst."
+      ],
+      [
+        "Ich habe gekauft, aber neue Figuren sind gesperrt. Wie stelle ich den Kauf wieder her?",
+        "Wähle im Kaufbildschirm „Käufe wiederherstellen“. Melde dich mit dem beim Kauf verwendeten Apple Account an und stelle eine Internetverbindung her. Warte, bis Apple den Kauf geprüft hat. Bleibt die Funktion gesperrt, schreib uns, bevor du erneut kaufst. Apple verwaltet Zahlungen und Erstattungen."
+      ],
+      [
+        "Wird meine Bibliothek gesichert? Wie lösche ich Inhalte?",
+        "Die Bibliothek bleibt auf diesem iPhone und ist vom Betriebssystem-Backup ausgeschlossen. Exportiere wichtige MP4-Videos, GIFs und PNG-Karten, bevor du die App löschst oder das Telefon wechselst; Exporte sind kein bearbeitbares Bibliotheks-Backup. Du kannst eine Figur oder nur ihre Stimmen löschen und lokale Inhalte in den Einstellungen entfernen. Bereits geteilte Kopien musst du separat löschen."
+      ],
+      [
+        "Brauche ich Internet oder ein UFFF-Konto?",
+        "Aufnahme, Erstellung und Wiedergabe funktionieren auf deinem Gerät ohne UFFF-Konto. Käufe, das Wiederherstellen von Käufen und ausgewählte Dienste zum Teilen können Internet benötigen. UFFF ist ein Klangspielzeug und beurteilt weder Stimmung noch Gesundheit oder Persönlichkeit."
+      ]
+    ],
+    "privacyTitle": "Dein Foto bleibt bei dir.<br><em>Deine Stimme auch.</em>",
+    "privacyDescription": "UFFF-Datenschutz: lokale Foto- und Sprachverarbeitung, Avatare, Speicherung, optionale GIF-Tastatur und Teilen.",
+    "privacyEyebrow": "Datenschutzerklärung",
+    "privacyLead": "Dein Foto und deine Stimme werden auf deinem Gerät zu einer Figur. Hier erklären wir den Umgang mit Daten in App, optionaler Tastatur und Website. Neue Avatar/GIF-Funktionen gehören zu 1.1.1.",
+    "updated": "Zuletzt aktualisiert: 17. Oktober 2026",
+    "toc": "Auf dieser Seite",
+    "summary": [
+      "Auf deinem Gerät verarbeitet",
+      "Kein Upload auf einen UFFF-Server",
+      "Du entscheidest, was du teilst"
+    ],
+    "policy": [
+      [
+        "scope",
+        "Geltungsbereich und Kontakt",
+        "<p>Diese Erklärung gilt für die iPhone-App UFFF und die UFFF-Produkt- und Supportwebsite von Ali Orkun Ozkul. Bei Datenschutzfragen oder Anfragen zu personenbezogenen Daten: <a href=\"mailto:ali.ozkul@icloud.com\">ali.ozkul@icloud.com</a>.</p><p>UFFF ist ein Klangspielzeug. Es bewertet weder Stimmung, Gesundheit, Persönlichkeit noch demografische Merkmale. Es gibt kein UFFF-Konto, keine Werbung, App-Analytik, Cloud-KI oder ein App-Backend.</p>"
+      ],
+      [
+        "recording",
+        "Aufnahme und Verarbeitung auf dem Gerät",
+        "<p>Das Mikrofon wird nur verwendet, wenn du sichtbar eine Aufnahme startest. Audioanalyse, Figurenerstellung, Stimmveränderung und Videoerstellung erfolgen auf deinem iPhone. UFFF sendet deine Aufnahmen oder Figuren weder an den Entwickler noch an einen KI-Dienst.</p><p>Die Rohaufnahme wird gelöscht, sobald die drei verarbeiteten Stimmprofile sicher gespeichert sind. Temporäre Aufnahmen abgebrochener oder fehlgeschlagener Verarbeitung werden ebenfalls entfernt. Auch eine veränderte Stimme kann eine Person erkennbar machen; die Stimmveränderung garantiert keine Anonymität.</p>"
+      ],
+      [
+        "photos",
+        "Fotos, Gesichtspunkte und Avatare",
+        "<p>Die Kamera öffnet sich nur, wenn du ein Foto aufnehmen möchtest. Die System-Fotoauswahl übergibt nur das ausgewählte Bild; UFFF fordert keinen Zugriff auf deine gesamte Mediathek an. Das Foto wird auf deinem Gerät verarbeitet, um Gesichtspunkte zu bestimmen und einen Cartoon zu erzeugen. Das Ausgangsfoto wird weder mit dem Avatar gespeichert noch auf einen Server hochgeladen.</p><p>Das erzeugte Avatarbild und die Gesichtspunkte für die Animation bleiben lokal gespeichert. Sie dienen weder der Identitätsprüfung noch dem Abgleich mit anderen Personen. Der Avatar kann dich trotzdem erkennbar machen. Gespeicherte Avatare und Kreationen kannst du über die Löschfunktionen der App entfernen.</p>"
+      ],
+      [
+        "permissions",
+        "Berechtigungen",
+        "<p>Die Kamera dient der Fotoaufnahme, das Mikrofon einer von dir ausdrücklich gestarteten Sprachaufnahme. Die Berechtigung zum Hinzufügen zu Fotos wird nur angefragt, wenn du dort einen Export speichern möchtest. Verwalte Berechtigungen unter iPhone-Einstellungen → Apps → UFFF. Kontakte oder Standort werden nicht angefragt.</p>"
+      ],
+      [
+        "keyboard",
+        "Optionale GIF-Tastatur",
+        "<p>GIFs, die du zur Tastatur hinzufügst, und ihre Vorschauen werden in einem lokalen gemeinsamen Bereich für App und Tastaturerweiterung gespeichert. Der iOS-Vollzugriff ermöglicht diese lokale Freigabe und das Kopieren in die Zwischenablage. Die UFFF-Tastatur sammelt oder übermittelt keine eingegebenen Texte und sendet keine Daten über das Netzwerk.</p><p>Ein Tippen auf ein GIF kopiert es in die Zwischenablage. Du entscheidest, ob du es in der Ziel-App einfügst und sendest; dort gelten deren Richtlinien. Verwalte die Ablage in UFFF oder entferne die Tastatur in den iOS-Einstellungen. Die Haupt-App funktioniert ohne Tastatur.</p>"
+      ],
+      [
+        "sharing",
+        "Teilen nach deiner Entscheidung",
+        "<p>MP4-Videos, GIFs und PNG-Karten verlassen den lokalen App-Speicher nur, wenn du sie teilst oder in Fotos speicherst. Die Ziel-App, Empfänger oder Fotos/iCloud-Fotos können diese Kopie nach ihren eigenen Einstellungen und Richtlinien verarbeiten. Foto-Avatar und Stimme können dich erkennbar machen.</p><p>Das Löschen in UFFF entfernt keine Kopien in Fotos, Zwischenablage, Nachrichten oder auf anderen Geräten. Lokale Duos verwenden zwei Kreationen auf demselben iPhone; sie verbinden sich nicht automatisch mit anderen Nutzern und senden ihnen keine Inhalte.</p>"
+      ],
+      [
+        "storage",
+        "Lokale Speicherung und Löschung",
+        "<p>Das Figurenrezept, der von dir gewählte lokale Name, Animationsinformationen und verarbeitete Stimmen bleiben auf diesem iPhone, bis du sie löschst. Du kannst das Aussehen behalten und nur die Stimmen oder die gesamte Figur löschen. In den Einstellungen kannst du auch lokale Inhalte und Präferenzen entfernen.</p><p>Die Bibliothek ist vom Betriebssystem-Backup ausgeschlossen. Deinstallieren der App oder ein Telefonwechsel kann zum Verlust von Inhalten führen. Exportiere wichtige Videos, GIFs und Karten vorher. Es erfolgt eine normale Dateilöschung; eine forensisch unwiederbringliche Löschung vom physischen Speicher wird nicht garantiert.</p>"
+      ],
+      [
+        "purchases",
+        "Käufe und kostenloses Guthaben",
+        "<p>Apple verwaltet Zahlung und Kaufverlauf über den App Store. UFFF erhält keine Zahlungskartendaten. Die App verwendet den von Apple bestätigten Kaufstatus, um unbegrenzte Erstellungen freizuschalten oder wiederherzustellen. Für Apples Datenverarbeitung gilt die <a href=\"https://www.apple.com/legal/privacy/\">Apple-Datenschutzrichtlinie</a>.</p><p>Die Anzahl der drei kostenlosen erfolgreichen Erstellungen und der lokale Kaufstatus werden auf deinem Gerät gespeichert. Das Löschen von Inhalten erneuert kein verbrauchtes Guthaben und storniert keinen Apple-Kauf.</p>"
+      ],
+      [
+        "support",
+        "Support-E-Mails",
+        "<p>Wenn du uns eine E-Mail schreibst, verarbeitet Ali Orkun Ozkul deine E-Mail-Adresse, deine Nachricht und freiwillig ergänzte Informationen, um deine Anfrage zu beantworten und das Problem zu lösen. Die Korrespondenz erfolgt über iCloud Mail; dessen Dienstbedingungen gelten ebenfalls. Aufnahmen oder private Namen musst du nicht senden.</p><p>Die Korrespondenz wird so lange aufbewahrt, wie es für die Bearbeitung der Anfrage und geltende Aufbewahrungspflichten erforderlich ist. Anfragen zu Auskunft, Berichtigung oder Löschung von Supportdaten kannst du an <a href=\"mailto:ali.ozkul@icloud.com\">ali.ozkul@icloud.com</a> senden.</p>"
+      ],
+      [
+        "website",
+        "Diese Website und GitHub Pages",
+        "<p>Diese Website wird über GitHub Pages bereitgestellt. Ihr Code enthält keine Analytik, Werbung, Trackingpixel, Cookies, dauerhaften Browserspeicher oder externen Schriftarten. Ein Sprachwechsel öffnet lediglich eine andere lokale Seite.</p><p>Beim Besuch von GitHub Pages protokolliert GitHub deine IP-Adresse aus Sicherheitsgründen, auch ohne Anmeldung bei GitHub. Informationen zu Hostingdaten, Aufbewahrung und internationalen Übermittlungen findest du in der <a href=\"https://docs.github.com/en/pages/getting-started-with-github-pages/what-is-github-pages\">GitHub-Pages-Erklärung</a> und der <a href=\"https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement\">GitHub-Datenschutzerklärung</a>. Beim Öffnen einer E-Mail oder eines externen Links gilt die Richtlinie des jeweiligen Dienstes.</p>"
+      ],
+      [
+        "choices",
+        "Deine Möglichkeiten und Anfragen",
+        "<p>Du kannst lokale App-Inhalte löschen, Mikrofon- und Fotosberechtigungen deaktivieren und auf das Teilen verzichten. Der Entwickler hat keinen Zugriff auf deine private Bibliothek auf dem Gerät. Bei Anfragen zu bereits gesendeten Supportinformationen schreibe an <a href=\"mailto:ali.ozkul@icloud.com\">ali.ozkul@icloud.com</a>.</p><p>Je nach anwendbarem Recht können dir Rechte auf Auskunft, Berichtigung, Löschung, Einschränkung der Verarbeitung, Widerspruch, Datenübertragbarkeit sowie Beschwerde bei einer Datenschutzaufsichtsbehörde zustehen.</p>"
+      ],
+      [
+        "updates",
+        "Änderungen",
+        "<p>Ändert sich der Umgang der App oder Website mit Daten, werden diese Erklärung und das Aktualisierungsdatum oben angepasst. Bei Fragen erreichst du uns über die Support-E-Mail.</p>"
+      ]
+    ],
+    "footer": "Kleine Geschichten. Große Charaktere.",
+    "back": "Nach oben",
+    "privacyLink": "Datenschutzerklärung",
+    "supportLink": "Support",
+    "rights": "Alle Rechte vorbehalten.",
+    "releaseLabel": "Ein erster Blick auf 1.1.1",
+    "releaseNote": "Diese Seite zeigt das kommende Update 1.1.1. Im App Store ist derzeit Version 1.0 verfügbar.",
+    "heroAlt": "Echter UFFF-Bildschirm mit persönlichem Foto-Avatar und Körperauswahl.",
+    "art": "Du spielst die Hauptrolle.",
+    "chips": [
+      "Vom Foto zum Avatar",
+      "Auf deinem iPhone",
+      "Kein Abo"
+    ],
+    "sections": [
+      "Dein Avatar",
+      "Drei Möglichkeiten",
+      "Zusammen spielen",
+      "UFFF Forever"
+    ],
+    "avatar": [
+      "Ein Gesicht. So viele Rollen.",
+      "Deine eigene Figur.<br>Deine kleine Welt.",
+      "Nimm ein Foto auf oder wähle eines aus. Probiere Körper, Farbe und Begrüßung mit einer Live-Vorschau aus. Speichere den Avatar für deinen Startbildschirm und wähle ihn für die nächste Geschichte wieder aus.",
+      [
+        "32 Körper: Köche, Piloten, Zauberer und mehr",
+        "66 Auftritte, darunter 32 Mini-Filme",
+        "18 fertige Figuren, auch ohne eigenes Foto"
+      ]
+    ],
+    "avatarNote": "Echte App-Bildschirme. Das Ergebnis hängt vom Foto ab.",
+    "bodyAlt": "Live-Vorschau verschiedener Körper und Outfits für einen persönlichen Avatar.",
+    "formatsTitle": "Was möchtest du machen?",
+    "formatsLead": "Wähle zuerst dein Format. Jeder Weg führt dich durch die Schritte, die du dafür brauchst.",
+    "formats": [
+      [
+        "Sprachvideo",
+        "Ein kleiner Satz, viel Charakter. Nimm bis zu 8 Sekunden auf. Behalte deine Stimme oder probiere einen sanften höheren oder tieferen Effekt.",
+        "Figur → Szene → Bewegung → Stimme",
+        "05-voice",
+        "Sprachvideo-Vorschau mit einem persönlichen Cartoon-Avatar."
+      ],
+      [
+        "Mini-Film",
+        "Dein Koch geht in die Küche, dein Zauberer zeigt einen Trick. Wähle Szene und Geschichte. Deine Stimme kommt auf Wunsch dazu.",
+        "Figur → Szene → Geschichte → Vorschau",
+        "03-movies",
+        "Koch-Avatar und Auswahl einer Mini-Film-Geschichte."
+      ],
+      [
+        "Reaktions-GIFs",
+        "Ein Hallo, ein Jubel, eine herrlich dramatische Reaktion. Wähle aus allen Animationen dein eigenes stummes GIF-Paket.",
+        "Figur → Bewegungen → GIF-Paket",
+        "04-gifs",
+        "Auswahl von Reaktions-GIFs für einen persönlichen Avatar."
+      ]
+    ],
+    "duo": [
+      "Zwei Stars. Eine Szene.",
+      "Bringe zwei gespeicherte Figuren auf demselben iPhone zusammen. Wähle die Szene, sieh dir die Vorschau an und entscheide, welche Stimmen zu hören sind. Eigene Bereiche in der Sammlung halten Einzelkreationen und Duos übersichtlich.",
+      "07-duo",
+      "Zwei gespeicherte Figuren gemeinsam in einer lokalen UFFF-Duoszene."
+    ],
+    "purchaseFAQIndex": 9
+  }
+}

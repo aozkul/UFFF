@@ -1,64 +1,47 @@
-# UFFF — GitHub Pages site paketi
+# UFFF — public product website
 
-Premium koyu tema, lime/lila renkler ve uygulamanın gerçek ekranlarıyla hazırlanmış tanıtım, destek ve gizlilik sayfaları. Türkçe, İngilizce ve Almanca toplam 9 sayfa. Mobil ve masaüstü düzenler; JavaScript kapalıyken de çalışan dil seçimi ve sık sorulan sorular.
+Live: **https://aozkul.github.io/UFFF/**. Turkish at the root; English at `/en/`; German at `/de/`. Each language has marketing, support and privacy pages.
 
-Bu klasör bağımsız bir web deposu olarak hazırlanmıştır. **GitHub deposunun köküne bu klasörün içindekileri koy.** Üstteki native UFFF proje klasörünü veya telefon kayıtlarını web deposuna ekleme. Yayın iş akışı sadece `public/` klasörünü barındırır.
+## October 17, 2026 update
 
-## Push ve yayın
+The site previews UFFF 1.1.1: personal photo avatars, 32 bodies, 66 performances including 32 mini movies, voice videos, reaction GIF packs, local duos and the optional GIF keyboard. The App Store publicly serves **1.0**, verified against Apple's lookup endpoint on October 17. The hero explicitly distinguishes the upcoming update from the available version. When 1.1.1 becomes publicly available, update `releaseLabel` and `releaseNote` in all three language entries; do not remove this distinction before checking.
 
-1. Bu klasörün içeriğini web için kullanacağın GitHub deposuna kopyala. Gizli `.github/` klasörü de dahil olmalı. ZIP paketinde bu klasör bulunur.
-2. GitHub deposunda **Settings → Pages → Build and deployment → Source → GitHub Actions** seç.
-3. Dosyaları `main` dalına push et. **Actions → Publish UFFF website** iş akışı sayfaları üretir, denetler ve yayımlar. Dosyalar zaten push edilmişse aynı iş akışında **Run workflow** kullanabilirsin.
-4. Yeşil tamamlandıktan sonra **Settings → Pages** bölümündeki gerçek adresi aç. Tanıtım, destek ve gizlilik bağlantılarını kontrol edip bu üç URL’yi paylaş.
+Real app screenshots use the owner's authorized avatar. Captured October 15 for the updated App Store presentation, they show the current creation flows; exact avatar appearance varies by source photo. WebP derivatives contain no source-photo metadata. The social cards come from the same approved presentation. No user recordings, original photos, device backup, test corpus or native app source belongs in this repository.
 
-GitHub üzerinde bu paket için push veya yayın henüz yapılmadı. Dalın adı `main` değilse `.github/workflows/pages.yml` içindeki `branches` değerini kendi dalınla değiştir.
+## Edit and validate
 
-## App Store Connect alanları
+Node.js 22+; no install or dependencies required.
 
-GitHub Pages’in verdiği ana adresi `SITE/` olarak düşün:
-
-| Dil | Marketing URL | Support URL | Privacy Policy URL |
-|---|---|---|---|
-| Türkçe | `SITE/` | `SITE/support/` | `SITE/privacy/` |
-| English | `SITE/en/` | `SITE/en/support/` | `SITE/en/privacy/` |
-| Deutsch | `SITE/de/` | `SITE/de/support/` | `SITE/de/privacy/` |
-
-Örneğin `aozkul/UFFF` deposunu proje sitesi olarak yayımlarsan beklenen ana adres `https://aozkul.github.io/UFFF/` olur. Bu yalnızca adres örneğidir; canlı yayın doğrulaması yapılmadı. App Store Connect’e ve iOS uygulama ayarlarına gerçek, açılan URL’ler girilmeli. Bu paket iOS ayarlarındaki eksik URL’leri otomatik değiştirmez.
-
-## Yerel önizleme ve kontrol
-
-Node.js 22 veya üzeri yeterli. `npm install` gerekmiyor; bağımlılık yok.
-
-```bash
+```sh
 node scripts/build.mjs
 node scripts/check.mjs
 node scripts/serve.mjs
 ```
 
-Tarayıcıda `http://127.0.0.1:8767/UFFF/` aç. Sunucu hem kök adresi hem `/UFFF/` proje yolunu destekler. Durdurmak için Ctrl+C. Alternatif komutlar: `npm run build`, `npm run check`, `npm run dev`.
+Local preview: `http://127.0.0.1:8767/UFFF/`.
 
-## Düzenleme
+- `scripts/copy.json`: all TR/EN/DE content, support answers and policy sections.
+- `scripts/build.mjs`: static page templates, canonical/alternate links and social metadata.
+- `public/assets/style.css`: responsive dark, lime and lavender design.
+- `public/assets/01-avatar-*.webp` through `07-duo-*.webp`: optimized real app screens.
+- `public/assets/social-*.webp`: localized link-preview artwork.
 
-- Metinler: `scripts/build.mjs` içindeki `copy.tr`, `copy.en`, `copy.de`.
-- Renkler ve yerleşim: `public/assets/style.css`.
-- Gerçek uygulama ekranları: `public/assets/film-*.png`, `characters-*.png`.
-- İletişim: `scripts/build.mjs` içindeki `email` değişkeni.
-- Politika tarihi her üç dilde içerikte bulunur; veri işleme şekli değiştiğinde metin ve tarihi birlikte güncelle.
-- App Store sayfası **gerçekten açıldıktan sonra** `appStoreAvailable` değerini `true` yap. Ana düğme mevcut Apple ID’sine bağlanır ve “Yakında” bilgisi kaldırılır.
-- Metin değişikliklerinden sonra `node scripts/build.mjs` ve `node scripts/check.mjs` çalıştır. Oluşan HTML dosyalarını da commit’e ekle.
+Commit the generated HTML after rebuilding. Push to `main` triggers **Publish UFFF website**; it validates and deploys **only `public/`** to GitHub Pages. Keep Pages source set to GitHub Actions. Verify the resulting Actions run and the live site after every publish.
 
-Gizlilik metni uygulamanın mevcut yerel veri akışını, isteğe bağlı paylaşımı, Apple satın almasını, destek e-postalarını ve GitHub Pages barındırmasını anlatır. Satıcı adı ve e-posta mevcut sahip bilgileridir. İşletmene ait ek yasal kimlik/adres bilgileri gerekiyorsa bunları sahibi olarak tamamlamalısın; paket bilinmeyen adres veya saklama süreleri uydurmaz.
+## Product and privacy facts
 
-## Dosyalar ve yayın sınırı
+Three successful creations total across formats, then one non-consumable purchase; existing creations stay usable. No subscription. Prices come from the user's App Store region rather than a globally hard-coded amount. Cancelled and failed operations do not use credits. Home avatar personalization does not use a creation credit.
 
-`public/` içindeki sayfalar, CSS ve yedi PNG görsel yayınlanır. Kayıt, ses dosyası, kullanıcı kütüphanesi, native uygulama kaynakları ve test raporları pakete dahil değildir. Site çerez, analitik, reklam, harici yazı tipi veya uzaktaki JavaScript kullanmaz. GitHub’ın kendi barındırma kayıtları gizlilik sayfasında açıklanmıştır.
+Photo and voice processing run on the iPhone. The optional keyboard copies selected GIFs for the user to paste; it does not send messages automatically or collect typing. Its local shelf holds 24 GIFs. Receiving apps can compress media.
 
-## Kaynaklar
+The website contains no runtime JavaScript, cookies, analytics, remote fonts or tracking. GitHub Pages hosting and support-email processing are described separately on the privacy page. All image assets are served from this site. Local-language navigation works without JavaScript.
 
-- [GitHub Pages özel iş akışları](https://docs.github.com/en/pages/getting-started-with-github-pages/using-custom-workflows-with-github-pages)
-- [GitHub Pages yayın kaynağını seçme](https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site)
-- [GitHub Pages ve güvenlik amaçlı IP kayıtları](https://docs.github.com/en/pages/getting-started-with-github-pages/what-is-github-pages)
-- [GitHub Gizlilik Bildirimi](https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement)
-- [Avrupa Komisyonu — bireylerin veri koruma hakları](https://commission.europa.eu/law/law-topic/data-protection/information-individuals_en)
+## App Store URLs
 
-İş akışı sürümleri ve GitHub Pages davranışı 11 Eylül 2026 tarihinde resmi kaynaklardan kontrol edildi. Yerel testler, GitHub Actions’ın hesabındaki gerçek yayın koşusunun yerine geçmez.
+| Language | Marketing | Support | Privacy |
+|---|---|---|---|
+| Türkçe | https://aozkul.github.io/UFFF/ | https://aozkul.github.io/UFFF/support/ | https://aozkul.github.io/UFFF/privacy/ |
+| English | https://aozkul.github.io/UFFF/en/ | https://aozkul.github.io/UFFF/en/support/ | https://aozkul.github.io/UFFF/en/privacy/ |
+| Deutsch | https://aozkul.github.io/UFFF/de/ | https://aozkul.github.io/UFFF/de/support/ | https://aozkul.github.io/UFFF/de/privacy/ |
+
+Contact: ali.ozkul@icloud.com. App Store ID: 6810970852 (store listing name: UFFFF; brand: UFFF).
